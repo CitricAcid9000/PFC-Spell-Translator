@@ -1,11 +1,10 @@
 The spell file has every spell group in PFC's Adventure Quest separated into their background groups.
 -----------------------------------------------------------------------------------------------------------
-
 each spell is formatted 
-$\color{red} [Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect] $
+$\color{#008000}[Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect] </code>$
 
 each Incant is formatted 
-! [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]
+$\color{red} [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]$
 
 If you want to update this list there is the translator folder with scripts. Below are the instructions to use it.
 ------------------------------------------------------------------------------------------------------------------------------------
