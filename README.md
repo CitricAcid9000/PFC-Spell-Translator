@@ -2,7 +2,7 @@ The spell file has every spell group in PFC's Adventure Quest separated into the
 -----------------------------------------------------------------------------------------------------------
 each spell is formatted 
 
-$\color{#004000}[Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect] </code>$
+$\color{#00f000}[Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect] </code>$
 
 each Incant is formatted 
 
