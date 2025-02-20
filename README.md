@@ -1,6 +1,6 @@
 This system translates the Adventure quest spell from https://centralia.aquest.com/doku.php to an easy way to store it in a file.
 
-Currently, blood magic and troubadour don't work without manual typing, and psionics have to be done one at a time.
+Currently, for blood magic, you have to change the dashes to be consistent with every other spell group, change the air magic list (6. smoke rather than 5. smoke), and troubadour doesn't work fully because it's unique secondaries.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 How to prepare the files:
 
