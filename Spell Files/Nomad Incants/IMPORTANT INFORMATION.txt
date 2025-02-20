@@ -1,0 +1,96 @@
+missing Troubadour secondaries 
+
+
+
+
+Scores - Secondary Effect Matrix
+Overture (Round 1)
+Name
+Skill
+Effect
+Multitalented
+Acting (Performance)
+If the Score’s main effect buffs ATTR scores, choose another ATTR. For each die made, targets of the main effect additionally gain 1 of this secondary ATTR score. This effect lasts for the Score duration.
+Song of Resistance
+Acting (Performance)
+Choose Fire, Water, Ice, Lightning, or Earth. For each 2 dice made against this skill, up to 3 creatures within 30’ gain 1 rank of Resist against the corresponding damage type. This effect lasts for the Score duration.
+For the Audience
+Arcana (Channeling)
+An additional creature may be targeted per die made. This effect lasts for the Score duration.
+Empowering Notes
+Arcana (Channeling)
+All allies within earshot gain one free finesse for magical effects per every two dice made against this skill. This effect lasts for the Score duration.
+Lullaby
+Psychology (Hypnosis)
+All enemy creatures within a 30’ radius of the caster have their movement speed decreased by 5’ per die made against this skill, with a resist check equal to the dice made against AGI to negate. This effect lasts for the Score duration.
+Actualization
+Acting (Instrumental Music)
+For every two dice made against this skill, up to 3 creatures in earshot gain one EXCP Attribute of their choice. This effect lasts for the Score duration.
+
+Aria (Round 2)
+Name
+Skill
+Effect
+Amplification
+Acting (Performance)
+All AoE and target distance limits on main and secondary effects are increased by 5’ per die made. This effect lasts for the Score duration.
+Shield of the Song
+Arcana (Channeling)
+A number of creatures equal to half the dice made against this skill cannot have their physical stats drained for the duration of this Score.
+Mockery
+Psychology (Hypnosis)
+A single chosen creature within 60’ LOS takes (dice made against skill)d6 points of pain damage.
+Spiritual Intimidation
+Psychology (Hypnosis)
+Up to 4 creatures within earshot must make a WIL check equal to the dice made or be frightened of the caster until the end of the Score. This check may be repeated at the end of the target’s turn.
+Word of Precision
+Acting (Instrumental Music)
+For each 2 dice made, a mote of precision appears and can be given to a creature within 60’ LOS (no action required). The mote of precision increases its holder’s natural roll for their next attack by 2, and then disappears. A single creature can only hold one mote, and the mote will vanish if not used when exiting combat.
+Purification
+Acting (Instrumental Music)
+For each die made, you may end a single status effect on a creature within earshot. Additional dice made can be allocated to ending additional status effects or targeting additional creatures.
+
+
+Crescendo (Round 3)
+Name
+Skill
+Effect
+Invigorating Notes
+Arcana (Channeling)
+Instantaneously grant all allies within earshot temporary DP equal to the dice made against this skill * 5. This temporary DP is removed when the Score ends.
+Weakening
+Arcana (Channeling)
+Point at a single creature within 60’ LOS. That creature must make a PWR check equal to the dice made against this skill. If failed, the next time this creature takes any damage, it takes an additional 6 damage of the same type.
+Fortification
+Psychology (Hypnosis)
+Choose a number of creatures up to half the dice made (at least one). Until the end of the Score, the targeted creatures may reroll a single resist check.
+Maestro’s Rage
+Psychology (Hypnosis)
+Up to 3 creatures within 60’ LOS must make a WIL check equal to the number of dice made or be stunned for a number of rounds equal to half the dice made. This check may be repeated at the end of the target’s turn.
+Artistic Complexity
+Acting (Instrumental Music)
+Up to 3 creatures within a 20’ radius may make a simple attack as a reaction to this skill being rolled. Additional dice grant +2 to damage (skill).
+
+Finale (Round 4)
+Name
+Skill
+Effect
+Explosive End
+Acting (Performance)
+All chosen creatures within a 30’ radius of the caster immediately take pain damage equal to (dice made against skill)d6.
+Shattering Flourish
+Acting (Performance)
+All chosen creatures within a 30’ radius of the caster must make a STR check equal to the dice made against this skill or be pushed back 10’ per die made.
+Uplifting Cadenza
+Arcana (Channeling)
+All chosen creatures within a 30’ radius of the caster immediately regain DP equal to (dice made against skill)d6.
+Withering End
+Psychology (Hypnosis)
+All chosen creatures within a 20’ radius of the caster must make a PER check equal to the dice made against this skill or be stunned for two rounds.
+O, Great Force
+Acting (Instrumental Music)
+All chosen creatures within a 40’ radius of the caster must make a STR check equal to the dice made against this skill or be knocked prone.
+Inspiration
+Acting (Instrumental Music)
+For each die made against this skill, a mote of inspiration appears and can be given to a creature within 60’ LOS (no action required). The mote grants a +5 bonus to a check or attack roll once, and then disappears. A single creature may only hold one mote, and the mote will vanish if not used when exiting combat.
+

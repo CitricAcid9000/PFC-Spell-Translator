@@ -1,0 +1,173 @@
+Clairsentience;1;Know Direction;none;caster;2 + 1/PU hours;self;know north
+Clairsentience;1;Spirit Sense;none;caster;1 + 1/PU minutes;60 + 15/F’;sense spirits
+Clairsentience;2;Combat Precognition;none;touch;5 + 3/PU rounds;self;see immediate future
+Clairsentience;3;Clairaudience;none;memlock, same plane;2 + 1/PU minutes;15 + 5/F’ radius;hear remotely
+Clairsentience;3;Know Location;none;caster;instantaneous;self;know where you are
+Clairsentience;4;Danger Sense;none;caster;10 + 10/PU minutes;self;sense danger
+Clairsentience;5;Aura Sight;none;caster;1 + 1/PU rounds;self;see auras
+Clairsentience;5;Recall Pain;(1d4+1)d6 vs WIL halves;LOS 60 + 15/F’;instantaneous;single creature;reveal future wounds
+Clairsentience;6;Appraise;none;caster;instantaneous;self;predict success
+Clairsentience;6;Clairvoyance;none;memlock, same plane;2 + 1/PU minutes;15 + 5/F’ radius;see remotely
+Clairsentience;6;Scrying Trap;(1d4+2)d6 vs WIL halves;touch;10 + 10/PU minutes;single creature;harm scryers
+Clairsentience;7;All Round Vision;(1d4+1)d6 vs WIL negates;touch;10 + 10/(2 PU) minutes;single creature;see in all directions
+Clairsentience;7;Radial Navigation;none;caster;1 + 1/PU hours;self;create anchor location
+Clairsentience;8;Fate of One;none;caster;instantaneous;self;reroll
+Clairsentience;9;Planar Hearing;none;memlock;2 + 1/PU minutes;15 + 5/F’ radius;hear remotely
+Clairsentience;10;Precognition;none;caster;2 + 1/(3 PU) rounds;self;see the near future
+Clairsentience;10;Sensitivity to Psychic Impressions;none;caster;instantaneous;self;see past events
+Clairsentience;11;Emulation;special*;special*;special*;special*;emulate another ability
+Clairsentience;12;Planar Sight;none;memlock;2 + 1/PU minutes;15 + 5/F’ radius;see remotely
+Clairsentience;12;Recall Torture;(1d4+2)d6 vs WIL halves;LOS 100 + 25/F’;1 + 1/(9 PU) rounds;single creature;reveal future agonies
+Clairsentience;13;Greater Emulation;special*;special*;special*;special*;emulate another ability
+Clairsentience;14;True Seeing;none;caster;5 + 5/(3 PU) minutes;self;pierce illusions
+Clairsentience;15;Metafaculty;none;caster;instantaneous;single creature;lay the target bare
+Clairsentience;16;Recall Death;(1d4+3)d6 vs WIL*;LOS 150 + 25/F’;instantaneous;single creature;reveal future death
+Metacreativity;1;Create Light;none;touch;2 + 1/PU hours;single non-living object;illuminate
+Metacreativity;1;Create Ammo;none;touch;1 + 1/PU hours;caster’s hand;creates ammo
+Metacreativity;1;Firefall;none;60 + 15/F’;instantaneous;10 + 5/F’ radius;rain sparks
+Metacreativity;2;Ectoplasmic Barrier;3d6 vs PWR negates;touch;10 + 10/PU minutes;single creature;protect with ectoplasm
+Metacreativity;3;Ectoplasmic Shield;3d6 vs PWR negates;touch;10 + 10/PU minutes;single creature;create shield
+Metacreativity;4;Minor Creation;none;LOS 10 + 5/F’;1 + 1/PU hours;1 + .5/F’ radius;create item
+Metacreativity;5;Ectoplasmic Cocoon;(1d4+1)d6 vs AGI negates;LOS 60 + 15/F’;1 + 1/PU minutes;single creature;encase in ectoplasm
+Metacreativity;5;Flaming Shroud;(1d4+2)d6 vs AGI negates;LOS 80 + 20/F’;1 + 1/(3 PU) rounds;single creature;engulf in flames
+Metacreativity;6;Create Weapon;none;touch;10 + 10/PU minutes;caster’s hand;create a weapon
+Metacreativity;6;Fabricate;none;touch;instantaneous;6 + 3/F cubic feet;convert raw materials
+Metacreativity;7;Create Food and Water;none;touch;instantaneous;single container;sustain 2 + 1/F people
+Metacreativity;8;Whitefire;(1d3+2)d6 vs AGI halves;120 + 20/F’;1 + 1/(4 PU) rounds;20 + 10/F’ radius;rain fire
+Metacreativity;8;Quintessence;none;touch;instantaneous;1” diameter ball;condense time essence
+Metacreativity;9;Wall of Ectoplasm;none;LOS 100 + 20/F’;10 + 10/(2 PU) minutes;200 + 100/F square feet;barrier of ectoplasm
+Metacreativity;10;Ectoplasmic Armor;3d6 vs PWR negates;touch;60 + 30/PU minutes;single creature;create ectoplasmic armor
+Metacreativity;10;Major Creation;none;LOS 20 + 10/F’;60 + 30/PU minutes;1 + 1/F’ radius;create item
+Metacreativity;11;Metaphysical Object;none;touch;60 + 30/PU minutes;single object;magical enchantment
+Metacreativity;12;Ectoplasmic Copy;none;touch;60 + 30/PU minutes;one object up to 500 lbs.;create a copy
+Metacreativity;12;Mass Cocoon;(1d4+2)d6 vs AGI negates;LOS 100 + 20/F’;1 + 1/(2 PU) minutes;20 + 5/F’ radius;encase many in ectoplasm
+Metacreativity;13;Incarnate;none;100’;instantaneous;one Metacreativity ability;make ability permanent
+Metacreativity;14;Greater Fabricate;none;touch;instantaneous;150 + 75/F cubic feet;convert raw materials
+Metacreativity;15;Contingency;none;caster;permanent;self;set a trigger
+Metacreativity;16;Genesis;none;touch;instantaneous;200 + 50/F’ radius;create a demiplane
+Metacreativity;16;Mind Store;none;touch;permanent;4” crystal;store a copy mind
+Psychokinesis;1;Ballistic Attack;none;LOS 50 + 10/F’;instantaneous;single object;hurl an object
+Psychokinesis;1;Animate Shadow;none;LOS 50 + 10/F’;2 + 2/PU rounds;single shadow;make a shadow move
+Psychokinesis;2;Negate Lesser Psionics;special*;80 + 20/F’;instantaneous;one psionic ability*;nullify ability
+Psychokinesis;3;Gird;none;caster;special*;one psionic ability;maintain ability
+Psychokinesis;3;Stomp;(1d4+1)d6 vs AGI negates;touch;instantaneous;10 x (40 + 10/F)’ line ;earth shake
+Psychokinesis;4;Far Punch;none;LOS 60 + 15/F’;instantaneous;single creature;punch with force
+Psychokinesis;5;Minor Telekinesis;(1d4+1)d6 vs WIl negates;LOS 60 + 15/F’;1 + 1/PU minutes;object ≤ 30 + 15/F lbs.;move with mind
+Psychokinesis;6;Inertial Barrier;(1d3 + 2)d6 vs STR negates;caster;3 + 3/(3 PU) rounds;10’ radius;create barrier of air
+Psychokinesis;7;Negate Moderate Psionics;special*;80 + 20/F’;instantaneous;one psionic ability*;nullify ability
+Psychokinesis;7;Psionic Alteration;none;caster;instantaneous;self;psionic alteration
+Psychokinesis;8;Animate Object;(1d3+3)d6 vs STR negates;100 + 20/F’;3 + 2/(3 PU) rounds;object ≤ 500 + 250/F lbs.;animate object to fight
+Psychokinesis;8;Mass Punch;none;LOS 80 + 20/F’;instantaneous;10 + 5/F’ radius;punch all in area
+Psychokinesis;9;Control Body;special*;LOS 100 + 20/F’;1 + 1/(4 PU) rounds;single creature;make puppet
+Psychokinesis;10;Psychic Vampire;(1d3+2)d6 vs PWR negates;touch;instantaneous;single creature;drain PU
+Psychokinesis;10;Telekinesis;(1d4+2) vs WIL negates;LOS 200 + 50/F’;2 + 1/(2 PU) rounds;object ≤ 150+ 50/F lbs.;command with mind
+Psychokinesis;11;Energy Conversion;none;caster;1 + 1/(3 PU) minutes;self;protect from energy
+Psychokinesis;12;Negate Greater Psionics;special;80 + 20/F’;instantaneous;one psionic ability*;nullify ability
+Psychokinesis;12;Disintegrate;(1d6+1) vs HEA negates;LOS 120 + 30/F’;instantaneous;object ≤ 500 lbs.;disintegration
+Psychokinesis;13;Bind Psionics;none;touch;special*;single item;make magic item
+Psychokinesis;13;Matter Manipulation;none;touch;permanent;single item;change structure
+Psychokinesis;14;Negate All Psionics;special*;80 + 20/F’;instantaneous;any number of psionics;nullify all psionics
+Psychokinesis;15;Death Field;(1d4+3)d6 vs HEA halves;caster;instantaneous;50’ radius;sap life energy
+Psychokinesis;15;Detonation;(1d4+3)d6 vs HEA halves;LOS 120 + 40/F’;instantaneous;single creature;blow up
+Psychokinesis;16;Convergence;none;multitouch;1 + 1/(5 PU) minutes;touched creatures;put your heads together
+Psychometabolism;1;Talons;willing target;touch;1 + 1/PU minutes;single creature;grow small talons
+Psychometabolism;1;Hear Light;none;caster;1 + 1/PU minutes;self;light to sound
+Psychometabolism;1;See Sound;none;caster;1 + 1/PU minutes;self;sound to light
+Psychometabolism;2;Enhanced Vigor;none;multitouch;2 + 1/(4 PU) hours;2 + 1/2F creatures;increase health
+Psychometabolism;2;Touch of the Martyr;none;caster;5 + 5/PU rounds;self;heal others
+Psychometabolism;3;Cannibalize;none;caster;instantaneous;self;convert HEA to PU
+Psychometabolism;3;Remove Poison;willing target;touch;instantaneous;single target;purge poisons
+Psychometabolism;3;Overwhelming Strength;special*;caster;instantaneous;simple combat attack;knockback opponent
+Psychometabolism;4;Biofeedback;none;caster;5 + 5/(2 PU) rounds;self;cushion blows
+Psychometabolism;4;Body Weaponry;willing target;touch;1 + 1/PU minutes;single creature;turn arm into weapon
+Psychometabolism;5;Claws of the Bear;willing target;touch;1 + 1/PU minutes;single creature;grow claws
+Psychometabolism;5;Exceptional Enhancement;willing target;touch;10 + 10/PU minutes;single creature;improve self
+Psychometabolism;6;Graft Armor;none;caster;1 + 1/(2 PU) minutes;set of armor;make armor part of body
+Psychometabolism;6;Graft Weapon;none;caster;1 + 1/(2 PU) minutes;one weapon;bind weapon to hand
+Psychometabolism;7;Cell Adjustment;willing target;LOS 40 + 10/F’  ;1 + 1/(5 PU) rounds;single creature;heal body
+Psychometabolism;7;Double Pain;(1d6+1) vs WIL negates;touch;1 + 1/(2 PU) minutes;single living creature;lower pain threshold
+Psychometabolism;7;Reconstruct;willing target;touch;6 + 6/(5 PU) rounds;single living creature;heal self
+Psychometabolism;8;Body Control;willing target;caster;2 + 1/(4 PU) hours;single creature;adapt to environment
+Psychometabolism;8;Touch of the Vampire;none;touch;5 + 5/(2 PU) rounds;single creature;draining touch
+Psychometabolism;8;Purge;4d6 vs HEA accepts*;touch;instantaneous;single living creature;purge body
+Psychometabolism;8;Body Incarnate;none;caster;2 + 1/(4 PU) hours;self;redirect spell
+Psychometabolism;9;Immobility;none;caster;1 + 1/(2 PU) rounds;self;cannot be moved
+Psychometabolism;9;Shock;none;caster;10 + 5/(4 PU) minutes;self;halt body
+Psychometabolism;10;Superior Vigor;willing targets;LOS 60 + 15/F’;1 + 1/(2 PU) minutes;2 + 1/2F creatures;increase health
+Psychometabolism;11;Metamorphosis;none;caster;1 + 1/(2 PU) hours;self;shape change
+Psychometabolism;12;Body Adjustment;none;caster;1 + 1/PU days;self;mutate self
+Psychometabolism;12;Alpha Attack;willing target;touch;1 + 1/(2 PU) minutes;single creature;strike harder
+Psychometabolism;12;Hyper Regeneration;willing target;touch;1 + 1/(6 PU) minutes;single living creature;regen faster
+Psychometabolism;13;Complete Healing;willing target;caster;instantaneous;touch;repair body
+Psychometabolism;14;Unstoppable Vigor;willing targets;multitouch;1 + 1/PU minutes;touched living creatures;massively increase health
+Psychometabolism;15;Genetic Adjustment;none;caster;instantaneous;self;mutate self
+Psychometabolism;16;Affinity Field;willing targets;caster;1 + 1/(10 PU) minutes;20 + 10/F’ radius;share all effects
+Psychometabolism;16;True Metabolism;none;caster;1 + 1/(6 PU) minutes;self;incredible regeneration
+Psychometabolism;16;Forever More;none;caster;permanent;self;resurrect
+Psychoportation;1;Float;willing target;LOS 30 + 15/F’;10 + 10/PU minutes;single creature or object;float in water
+Psychoportation;1;Know Plane;none;caster;instantaneous;self;know plane
+Psychoportation;2;Feather Fall;none;caster;5 + 5/PU rounds;self;fall slowly
+Psychoportation;2;Fleet Foot;willing target;touch;10 + 10/PU minutes;single creature;increase movement
+Psychoportation;3;Trace Teleport;none;200’;instantaneous;single teleport spot;learn destination
+Psychoportation;4;Dimensional Grab;none;memlock, same plane;2 + 1/PU rounds;5” radius;grab or store an item
+Psychoportation;4;Short Teleport;none;200 + 50/F’;instantaneous;self;short range teleport
+Psychoportation;5;Go Away!;(1d4+1)d6 vs PWR negates;touch;instantaneous;single creature;teleport 200 + 50/F’
+Psychoportation;5;Teleport Trigger;none;caster;1 + 1/PU hours;self;ready a teleport
+Psychoportation;5;Stay Right There;(1d4+2)d6 vs PWR negates;touch;10 + 10/(2 PU) minutes;single creature;prevent teleports
+Psychoportation;6;Time Hop;(1d3+2)d6 vs PWR negates;touch;instantaneous;single creature;move forward in time
+Psychoportation;6;Helpful Teleport;willing target;LOS 200 + 50/F’;instantaneous;single creature;switch places
+Psychoportation;7;Follow Teleport;none;200’;instantaneous;single teleport spot;follow another teleporter
+Psychoportation;7;Sending;none;memlock;5 + 5/PU rounds;1 + .5/F’ radius;speak remotely
+Psychoportation;8;Dimensional Door;none;LOS 200 + 50/F;2 + 1/PU rounds;4 + 1/F’ radius;create doorway
+Psychoportation;9;Baleful Teleport;(1d4+2)d6 vs HEA halves;LOS 40 + 10/F’;2 + 1/(3 PU) rounds*;single creature;teleport partially
+Psychoportation;9;Temporal Deceleration;(1d3+2)d6 vs PWR negates;LOS 60 + 15/F’;2 + 1/(6 PU) rounds;single creature;slow target
+Psychoportation;10;Temporal Acceleration;willing target;touch;2 + 1/(6 PU) rounds;single creature;move faster through time
+Psychoportation;11;Dismissal;(1d4+3)d6 vs PWR negates;touch;instantaneous;single creature;send to home plane
+Psychoportation;12;Random Teleport;(1d3+3)d6 vs PWR negates;touch;instantaneous;single creature;teleport away
+Psychoportation;12;Time Shift;none;caster;special*;single creature;jump forward in time
+Psychoportation;12;Disrupt Teleport;1 round;This ability prevents other teleporters from following for a period of time. This is extremely useful when trying to regroup and heal. Anybody trying to teleport into the area has their teleportation delayed by 4 rounds. The caster is aware of incoming teleports when this ability is activated.;none;caster;3 + 1/(2 PU) rounds;400’ radius;buys time
+Psychoportation;13;Teleport;willing target;touch;instantaneous;single creature or object;teleport
+Psychoportation;14;Summon Planar Being;(1d3+4)d6 vs WIL negates;LOS 200 + 25/F’;instantaneous;single creature;summon random creature
+Psychoportation;14;Teleportation Circle;none;memlock, same plane;permanent;5 + 1/F’ radius;teleportation gateway
+Psychoportation;15;Group Teleport;willing targets;multitouch;instantaneous;touched creatures;teleport
+Psychoportation;15;Temporal Regress;special*;This spell can be activated at any time, even as the caster dies. It reverts the target's physical form back to what it was the previous round while leaving their memories and mental state unaffected. This will heal damage and prevent death and reverse any other physical changes except for costs used to pay for things (such as magical units spent, EXP costs, and the stressing of attributes or exceptionals).EXP Cost: 2500 EXP;none;LOS 200 + 50/F’;instantaneous;1 + 1/F object/creature;revert to past state
+Psychoportation;16;Planeshift;willing targets;multitouch;instantaneous;touched creatures/objects;teleport
+Psychoportation;16;Planeshift Circle;none;memlock;permanent;5 + 1/F’ radius;interplanar gateway
+Telepathy;1;Daze;(1d4)d6 vs WIL negates;LOS 60 + 15/F’;1 round;single creature;daze creature
+Telepathy;1;Detect Lie;(1d4+1)d6 vs WIL negates;LOS 60 + 15/F’;5 + 5/PU minutes;single creature;detect lies
+Telepathy;2;Missive;(1d4+1)d6 vs WIL negates;LOS 2000’;instantaneous;single creature;send message
+Telepathy;2;Absolute Focus;none;caster;1 + 1/PU hours;self;skill increase
+Telepathy;3;Day Dream;(1d4+1)d6 vs WIL negates;LOS 60 + 15/F’;1 + 1/PU minutes;1 creature;cause distraction
+Telepathy;3;Ghost;(1d4+1)d6 vs INT negates;LOS 30 + 10/F’;permanent;1 + 1/F creatures;remove memory
+Telepathy;3;Psionic Detection;none;caster;30 + 30/PU minutes;LOS 120 + 30/F’;attribute sight
+Telepathy;4;Share Memory;(1d4+1)d6 vs WIL negates;LOS 60 + 15/F’;instantaneous;single creature;give 1 + 1/F memories
+Telepathy;4;Talent of the Telepath;none;caster;instantaneous;self;exploit mental weakness
+Telepathy;4;Ascendent Mind;none;caster;10 + 10/PU minutes;self;increase mental potential
+Telepathy;4;Shared Missive;(1d4+1)d6 vs WILnegates;LOS 200 + 50/F’;30 + 30/PU minutes;2 + 1/F creatures;open communication
+Telepathy;5;Share Language;(1d4+1)d6 vs WIL negates;LOS 60 + 15/F’;1 + 1/PU minutes;single creature;allow communication
+Telepathy;5;Knowledge Theft;(1d4+1)d6 vs WIL negates;touch;instantaneous;single target;steal memory
+Telepathy;6;Subconscious Hint;(1d4+1)d6 vs INT negates;LOS 50 + 10/F’;instantaneous;single target;plant idea
+Telepathy;6;Mind Read;(1d3+2)d6 vs WIL negates;LOS 60 + 15/F’;1 + 1/(2 PU) minutes;single creature;read thoughts
+Telepathy;7;Share Skill;(1d4+1)d6 vs WIL negates;LOS 60 + 15/F’;1 + 1/PU minutes;single creature;give 1 + 1/2F skills
+Telepathy;7;Onivero Bond;(1d3+2)d6 vs WIL negates;touch;1 + 1/(2 PU) days;single creature;bond minds
+Telepathy;8;Pseudo-Mind;none;caster;30 + 10/(5 PU) minutes;self;false mind
+Telepathy;8;Fate Link;(1d4+1)d6 vs WIL negates;LOS 80 + 20/F’;10 + 10/(2 PU) rounds;two creatures;share pain
+Telepathy;9;Share Spell;(1d4+1)d6 vs WIL negates;LOS 60 + 15/F’;1 + 1/(2 PU) minutes;single creature;give 1 + 1/F spells
+Telepathy;9;Mind Shield;willing target;touch;2 + 1/(6 PU) hours;single creature;protect mind
+Telepathy;9;Hallucination;(1d4+2)d6 vs WIL negates;LOS 120 + 30/F’;10 + 2/PU minutes;2 + 1/F targets;bend reality
+Telepathy;9;Static Insanity;(1d4+2)d6 vs WIL negates;caster;4 + 4/(4 PU) rounds;self;harmful psionic field
+Telepathy;9;Grand Missive;(1d3+2)d6 vs WIL negates;touch;1 + 1/PU hours;12 + 1/F creatures;bond minds
+Telepathy;10;Mental Disintegration;(1d4+2)d6 vs WIL negates;caster;1 + 1/(2 PU) minutes;20 + 20/F’ radius;amplify psionics
+Telepathy;10;Eject;(1d3+1)d6 vs WIL accepts;touch;instantaneous;single creature;remove outside influences
+Telepathy;10;Send to Sleep;(1d6+1)d6 vs WIL negates;LOS 150 + 50/F’;instantaneous;single creature;fall asleep
+Telepathy;11;Psionic Blast;(1d4+2)d6 vs WIL halves;LOS 60 + 15/F’;instantaneous;special*;psionic screech
+Telepathy;12;Mind Swipe;(1d6+1)d6 vs WIL negates;LOS 20 + 5/F’;10 + 5/(5 PU) minutes;single creature;steal ideas
+Telepathy;12;Split Personality;none;caster;4 + 1/(4 PU) rounds;self;split mind
+Telepathy;12;Synaptic Static;special*;caster;3 + 1/(2 PU) rounds;60 + 15/F’ radius;stop psionics
+Telepathy;13;Psychic Chirurgery;(1d4+2)d6 vs WIL negates;touch;instantaneous;single creature;repair or alter mind
+Telepathy;14;Mind Sculpt;(1d3+3)d6 vs INT negates;LOS 50 + 25/F’;instantaneous;single creature;sculpt mind
+Telepathy;14;Dominate;(1d3+3)d6 vs WIL negates;LOS 100 + 25/F’;1 + 1/(5 PU) hours;single creature;control actions
+Telepathy;15;Microcosm;(1d4+3)d6 vs WIL negates;LOS 100 + 25/F’;permanent;single creature;trap mind
+Telepathy;15;Arcane Sanctum;(1d4+3)d6 vs PWR*;caster;permanent;200’ radius;mass read minds
+Telepathy;16;Break Free;none;caster;instantaneous;self;break mind magic
+Telepathy;16;Enlighten;(1d4+3)d6 vs WIL negates;touch;instantaneous;single creature;grant intelligence
