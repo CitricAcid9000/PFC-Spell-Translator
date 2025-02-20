@@ -1,10 +1,10 @@
-The spell file has every spell group in PFC's Adventure Quest separated into their background groups
+The spell file has every spell group in PFC's Adventure Quest separated into their background groups.
 -----------------------------------------------------------------------------------------------------------
 
 each spell is formatted [Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect]
 each Incant is formatted [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]
 
-if you want to update this list there is the translator folder with scripts. Below are the instructions to use it.
+If you want to update this list there is the translator folder with scripts. Below are the instructions to use it.
 ------------------------------------------------------------------------------------------------------------------------------------
 This system translates the Adventure quest spell from https://centralia.aquest.com/doku.php to an easy way to store it in a file.
 
