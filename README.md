@@ -1,7 +1,7 @@
 The spell file has every spell group in PFC's Adventure Quest separated into their background groups.
 -----------------------------------------------------------------------------------------------------------
 
-each spell is formatted `#RRGGBB`[Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect]
+each spell is formatted `#008000`[Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect]
 
 each Incant is formatted [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]
 
