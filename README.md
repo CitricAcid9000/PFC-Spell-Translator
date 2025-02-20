@@ -6,7 +6,7 @@ $\color{#00f000}[Spellgroup];[spell rank];[Spell Name];[Description];[Resist Che
 
 each Incant is formatted 
 
-$\color{red} [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]$
+$\color{#f00000} [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]$
 
 If you want to update this list there is the translator folder with scripts. Below are the instructions to use it.
 ------------------------------------------------------------------------------------------------------------------------------------
