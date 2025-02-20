@@ -17,14 +17,12 @@ class Main {
 
 
         Scanner in = new Scanner(System.in);
-        //System.out.println("what is the file pathway?");
-        //String pathway = in.nextLine();
-        String pathway = "C:/Users/seans/OneDrive/Desktop/spellTest.txt";
-
-        //System.out.println("what is the destination file pathway?");
-        //String destinationPathway = in.nextLine();
-        String destinationPathway = "D://Spell Files/Water Magic.txt";
-
+        System.out.println("what is the file pathway?");
+        String pathway = in.nextLine();
+        
+        System.out.println("what is the destination file pathway?");
+        String destinationPathway = in.nextLine();
+       
         // ask is a spell or incant for formating
         boolean waitingResponse = true;
         boolean isSpell = true;
