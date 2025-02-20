@@ -1,6 +1,15 @@
+The spell file has every spell group in PFC's Adventure Quest separated into their background groups
+-----------------------------------------------------------------------------------------------------------
+
+each spell is formatted [Spellgroup];[spell rank];[Spell Name];[Description];[Resist Check];[Target];[Duration];[Area];[Effect]
+each Incant is formatted [IncantName];[Incant Type];[Description];[Secondary Effect];[Base Cost];[Charge Cost];[Specilization];[Special Ingredients]
+
+if you want to update this list there is the translator folder with scripts. Below are the instructions to use it.
+------------------------------------------------------------------------------------------------------------------------------------
 This system translates the Adventure quest spell from https://centralia.aquest.com/doku.php to an easy way to store it in a file.
 
-Currently, for blood magic, you have to change the dashes to be consistent with every other spell group as well as rank 2 blood Analyst description dashes must be normal dashes, change the air magic list (6. smoke rather than 5. smoke), and troubadour doesn't work fully because it's unique secondaries. Also you have to change T'or 6a dn 6b number on the list with 6 and 7 respectivily
+Currently, for blood magic, you have to change the dashes to be consistent with every other spell group as well as rank 2 blood Analyst description dashes must be normal dashes, change the air magic list (6. smoke rather than 5. smoke), and troubadour doesn't work fully because it's unique secondaries. Also, you have to change T'or 6a and 6b numbers on the list with 6 and 7 respectively.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 How to prepare the files:
 
