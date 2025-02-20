@@ -1,6 +1,6 @@
 This system translates the Adventure quest spell from https://centralia.aquest.com/doku.php to an easy way to store it in a file.
 
-Currently, for blood magic, you have to change the dashes to be consistent with every other spell group as well as rank 2 blood Analyst description dashes must be normal dashes, change the air magic list (6. smoke rather than 5. smoke), and troubadour doesn't work fully because it's unique secondaries.
+Currently, for blood magic, you have to change the dashes to be consistent with every other spell group as well as rank 2 blood Analyst description dashes must be normal dashes, change the air magic list (6. smoke rather than 5. smoke), and troubadour doesn't work fully because it's unique secondaries. Also you have to change T'or 6a dn 6b number on the list with 6 and 7 respectivily
 ------------------------------------------------------------------------------------------------------------------------------------------------
 How to prepare the files:
 
